@@ -1,0 +1,44 @@
+header {
+    padding-bottom : 1%;
+    background-color : #1687a7;
+}
+body {
+    background-color :blanchedalmond;
+}
+h1 {
+    font-family : 'Allura', cursive;
+    font-weight :	bold;
+    background-color : #1687a7;
+    padding-left : 3%;
+    padding-top : 1%;
+}
+.images{
+    display: flex;
+    justify-content: center;
+    
+     
+}
+
+.images1{
+    padding-top: 1%;
+    display: flex;
+    justify-content: center;
+    
+     
+}
+
+.member-box{
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    margin: 1px; 
+    justify-tracks: center;
+    background-color: #ffffff;
+    border: 1px solid #999;
+    
+}
+
+.group-members{
+    
+    text-align: center;
+}
